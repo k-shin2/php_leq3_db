@@ -1,2 +1,2 @@
-# php_req3_db
+# php_leq3_db
 PHPの学習。
